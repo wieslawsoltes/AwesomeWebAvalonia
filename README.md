@@ -1,6 +1,6 @@
 # Awesome Web Avalonia
 
-The list contains web apps created using [Avalonia](https://avaloniaui.net/) a cross platform UI framework for .NET.
+The list contains web apps that I have created using [Avalonia](https://avaloniaui.net/) a cross platform UI framework for .NET.
 
 ## [AvaloniaBehaviors](https://wieslawsoltes.github.io/AvaloniaBehaviors/) - Xaml Behaviors for Avalonia [[Source Code](https://github.com/wieslawsoltes/AvaloniaBehaviors)]
 
