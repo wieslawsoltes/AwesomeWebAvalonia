@@ -1,4 +1,4 @@
-# Awesome Avalonia Web
+# Awesome Web Avalonia
 
 The list contains web apps created using [Avalonia](https://avaloniaui.net/) a cross platform UI framework for .NET.
 
