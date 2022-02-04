@@ -22,6 +22,8 @@ The list contains web apps that I have created using [Avalonia](https://avalonia
 
 ![image](https://user-images.githubusercontent.com/2297442/152510452-bb419253-cabe-4551-b369-d3ceef841748.png)
 
+## [LogicSimulator](https://wieslawsoltes.github.io/LogicSimulator/) - Asynchronous event-driven digital logic simulator [[Source Code](https://github.com/wieslawsoltes/LogicSimulator)]
+
 ## [NodeEditor](https://wieslawsoltes.github.io/NodeEditor/) - A node editor control for Avalonia [[Source Code](https://github.com/wieslawsoltes/NodeEditor)]
 
 ![image](https://user-images.githubusercontent.com/2297442/152491733-8a532b64-ce48-4f29-b0eb-efc252333e80.png)
@@ -45,3 +47,5 @@ The list contains web apps that I have created using [Avalonia](https://avalonia
 ## [XamlPlayground](https://wieslawsoltes.github.io/XamlPlayground/) - Avalonia Xaml Playground [[Source Code](https://github.com/wieslawsoltes/XamlPlayground)]
 
 ![image](https://user-images.githubusercontent.com/2297442/152491978-f7936c95-31bd-4917-bc03-ef90cb7258c5.png)
+
+## [YawPitchRollTransformControl](https://wieslawsoltes.github.io/YawPitchRollTransformControl/) - Yaw, Pitch and Roll transform control for Avalonia [[Source Code](https://github.com/wieslawsoltes/YawPitchRollTransformControl)]
