@@ -6,6 +6,8 @@ The list contains web apps that I have created using [Avalonia](https://avalonia
 
 ![image](https://user-images.githubusercontent.com/2297442/152491256-e96098fc-384c-4e52-996c-6c60fb2c0eae.png)
 
+## [ColorPicker](https://wieslawsoltes.github.io/ColorPicker/) - Avalonia ColorPicker control [[Source Code](https://github.com/wieslawsoltes/ColorPicker)]
+
 ## [Core2D](https://wieslawsoltes.github.io/Core2D/) - A multi-platform data driven 2D diagram editor [[Source Code](https://github.com/wieslawsoltes/Core2D)]
 
 ![image](https://user-images.githubusercontent.com/2297442/152491527-d93737c3-6e70-4cd5-84a5-ec12f9c3fe76.png)
@@ -32,9 +34,13 @@ The list contains web apps that I have created using [Avalonia](https://avalonia
 
 ![image](https://user-images.githubusercontent.com/2297442/152491901-67163beb-9b55-4aed-b594-3259006f3d92.png)
 
+## [SpiroNet](https://wieslawsoltes.github.io/SpiroNet/) - The .NET C# port of libspiro - conversion between spiro control points and bezier's [[Source Code](https://github.com/wieslawsoltes/SpiroNet)]
+
 ## [SvgToXaml](https://wieslawsoltes.github.io/SvgToXaml/) - Svg to xaml conveter [[Source Code](https://github.com/wieslawsoltes/SvgToXaml)]
 
 ![image](https://user-images.githubusercontent.com/2297442/152491762-baa94c96-242d-4257-86e3-b7ec72587b0f.png)
+
+## [Trace](https://wieslawsoltes.github.io/Trace/) - Trace is an application for transforming bitmaps into vector graphics [[Source Code](https://github.com/wieslawsoltes/Trace)]
 
 ## [TypefaceUtil](https://wieslawsoltes.github.io/TypefaceUtil/) - An OpenType typeface utilities [[Source Code](https://github.com/wieslawsoltes/TypefaceUtil)]
 
