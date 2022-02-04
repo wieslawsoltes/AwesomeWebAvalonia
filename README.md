@@ -20,7 +20,7 @@ The list contains web apps created using [Avalonia](https://avaloniaui.net/) a c
 
 ## [Draw2D](https://wieslawsoltes.github.io/Draw2D/) - A drawing app [[Source Code](https://github.com/wieslawsoltes/Draw2D)]
 
-![image](https://user-images.githubusercontent.com/2297442/152510231-e24230af-fd75-4bff-b344-53377dbbb263.png)
+![image](https://user-images.githubusercontent.com/2297442/152510452-bb419253-cabe-4551-b369-d3ceef841748.png)
 
 ## [NodeEditor](https://wieslawsoltes.github.io/NodeEditor/) - A node editor control for Avalonia [[Source Code](https://github.com/wieslawsoltes/NodeEditor)]
 
