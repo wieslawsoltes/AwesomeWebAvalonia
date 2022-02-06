@@ -2,6 +2,8 @@
 
 The list contains web apps that I have created using [Avalonia](https://avaloniaui.net/) a cross platform UI framework for .NET.
 
+## [Animator](https://wieslawsoltes.github.io/Animator/) - Animation control [[Source Code](https://github.com/wieslawsoltes/Animator)]
+
 ## [AvaloniaBehaviors](https://wieslawsoltes.github.io/AvaloniaBehaviors/) - Xaml Behaviors for Avalonia [[Source Code](https://github.com/wieslawsoltes/AvaloniaBehaviors)]
 
 ![image](https://user-images.githubusercontent.com/2297442/152491256-e96098fc-384c-4e52-996c-6c60fb2c0eae.png)
@@ -30,11 +32,23 @@ The list contains web apps that I have created using [Avalonia](https://avalonia
 
 ![image](https://user-images.githubusercontent.com/2297442/152491733-8a532b64-ce48-4f29-b0eb-efc252333e80.png)
 
+## [PackageReferenceEditor](https://wieslawsoltes.github.io/PackageReferenceEditor/) - MSBuild, csproj and props package reference editor [[Source Code](https://github.com/wieslawsoltes/PackageReferenceEditor)]
+
 ## [PanAndZoom](https://wieslawsoltes.github.io/PanAndZoom/) - Pan and zoom control for Avalonia [[Source Code](https://github.com/wieslawsoltes/PanAndZoom)]
 
 ![image](https://user-images.githubusercontent.com/2297442/152491901-67163beb-9b55-4aed-b594-3259006f3d92.png)
 
+## [ReactiveHistory](https://wieslawsoltes.github.io/ReactiveHistory/) - Reactive undo/redo framework for .NET [[Source Code](https://github.com/wieslawsoltes/ReactiveHistory)]
+
+## [SimpleDraw](https://wieslawsoltes.github.io/SimpleDraw/) - Avalonia drawing control [[Source Code](https://github.com/wieslawsoltes/SimpleDraw)]
+
+## [SimpleWavSplitter](https://wieslawsoltes.github.io/SimpleWavSplitter/) - Split multi-channel WAV files into single channel WAV files [[Source Code](https://github.com/wieslawsoltes/SimpleWavSplitter)]
+
 ## [SpiroNet](https://wieslawsoltes.github.io/SpiroNet/) - The .NET C# port of libspiro - conversion between spiro control points and bezier's [[Source Code](https://github.com/wieslawsoltes/SpiroNet)]
+
+## [Spreadsheet](https://wieslawsoltes.github.io/Spreadsheet/) - An virtualized rows and columns spreadsheet control [[Source Code](https://github.com/wieslawsoltes/Spreadsheet)]
+
+## [Svg.Skia](https://wieslawsoltes.github.io/Svg.Skia/) - Svg.Skia test application [[Source Code](https://github.com/wieslawsoltes/Svg.Skia)]
 
 ## [SvgToXaml](https://wieslawsoltes.github.io/SvgToXaml/) - Svg to xaml conveter [[Source Code](https://github.com/wieslawsoltes/SvgToXaml)]
 
